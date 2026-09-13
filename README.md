@@ -20,4 +20,4 @@ I like software development and penetration testing.
 
 ## Contact
 
-* Email: [p4p2r0@proton.me](mailto:p4p2r0@proton.me)
+* Email: [batusaribay@gmail.com](mailto:batusaribay@gmail.com)
