@@ -10,7 +10,7 @@ I like software development and penetration testing.
 | [network-sniffer](https://github.com/p4p2r0/network-sniffer) | TUI network packet sniffer |
 | [file-integrity-monitor](https://github.com/p4p2r0/file-integrity-monitor) | Real-time file and directory integrity monitor |
 | [breach-checker](https://github.com/p4p2r0/breach-checker) | Password and email breach checker |
-| [uncensored-llm](https://github.com/p4p2r0/uncensored-llm) | Run uncensored LLMs locally with Ollama |
+| [uncensored-llm](https://github.com/p4p2r0/uncensored-llm) | Local LLM runner |
 | [cyber-news](https://github.com/p4p2r0/cyber-news) | Cybersecurity news website |
 | [password-generator](https://github.com/p4p2r0/password-generator) | Cryptographically secure password generator |
 
