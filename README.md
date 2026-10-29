@@ -6,6 +6,8 @@ I like software development and penetration testing.
 
 | Name | Description |
 |------|-------------|
+| [omarchy-ctfstatus](https://github.com/batusaribay/omarchy-ctfstatus) | Hack The Box, TryHackMe and CyLab Academy account status in Omarchy bar widget |
+| [omarchy-hackernews](https://github.com/batusaribay/omarchy-hackernews) | Lists recent headlines from The Hacker News in the Omarchy bar |
 | [minesweeper](https://github.com/batusaribay/minesweeper) | Modern Minesweeper game |
 | [network-sniffer](https://github.com/batusaribay/network-sniffer) | TUI network packet sniffer |
 | [file-integrity-monitor](https://github.com/batusaribay/file-integrity-monitor) | File and directory integrity monitor |
