@@ -2,7 +2,13 @@
 
 I like software development and penetration testing.
 
-## Repositories
+## Featured Repositories
+
+| Name | Description |
+|------|-------------|
+| [breach-checker](https://github.com/batusaribay/breach-checker) | Password and email breach checker |
+
+## Other Repositories
 
 | Name | Description |
 |------|-------------|
@@ -11,7 +17,6 @@ I like software development and penetration testing.
 | [minesweeper](https://github.com/batusaribay/minesweeper) | Modern Minesweeper game |
 | [network-sniffer](https://github.com/batusaribay/network-sniffer) | TUI network packet sniffer |
 | [file-integrity-monitor](https://github.com/batusaribay/file-integrity-monitor) | File and directory integrity monitor |
-| [breach-checker](https://github.com/batusaribay/breach-checker) | Password and email breach checker |
 | [local-llm](https://github.com/batusaribay/local-llm) | Local LLM runner |
 | [cyber-news](https://github.com/batusaribay/cyber-news) | Cybersecurity news website |
 | [password-generator](https://github.com/batusaribay/password-generator) | Cryptographically secure password generator |
