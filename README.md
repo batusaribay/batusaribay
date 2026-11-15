@@ -14,7 +14,7 @@ I like software development and penetration testing.
 
 | Name | Description |
 |------|-------------|
-| [deepseek-chat](https://github.com/batusaribay/deepseek-chat) | https://github.com/batusaribay/deepseek-chat |
+| [deepseek-chat](https://github.com/batusaribay/deepseek-chat) | DeepSeek in your terminal, through your own browser |
 | [omarchy-ctfstatus](https://github.com/batusaribay/omarchy-ctfstatus) | Hack The Box, TryHackMe and CyLab Academy account status in Omarchy bar widget |
 | [omarchy-hackernews](https://github.com/batusaribay/omarchy-hackernews) | Lists recent headlines from The Hacker News in the Omarchy bar |
 | [minesweeper](https://github.com/batusaribay/minesweeper) | Modern Minesweeper game |
