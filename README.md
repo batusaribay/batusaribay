@@ -6,14 +6,15 @@ I like software development and penetration testing.
 
 | Name | Description |
 |------|-------------|
-| [mail-client](https://github.com/batusaribay/mail-client) | A terminal email client for IMAP and SMTP.
-| [news-reader](https://github.com/batusaribay/news-reader) | A terminal news reader with article text.
+| [mail-client](https://github.com/batusaribay/mail-client) | A terminal email client for IMAP and SMTP. |
+| [news-reader](https://github.com/batusaribay/news-reader) | A terminal news reader with article text. |
 | [breach-checker](https://github.com/batusaribay/breach-checker) | Password and email breach checker |
 
 ## Other Repositories
 
 | Name | Description |
 |------|-------------|
+| [deepseek-chat](https://github.com/batusaribay/deepseek-chat) | https://github.com/batusaribay/deepseek-chat |
 | [omarchy-ctfstatus](https://github.com/batusaribay/omarchy-ctfstatus) | Hack The Box, TryHackMe and CyLab Academy account status in Omarchy bar widget |
 | [omarchy-hackernews](https://github.com/batusaribay/omarchy-hackernews) | Lists recent headlines from The Hacker News in the Omarchy bar |
 | [minesweeper](https://github.com/batusaribay/minesweeper) | Modern Minesweeper game |
