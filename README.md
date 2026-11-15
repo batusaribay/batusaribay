@@ -6,6 +6,8 @@ I like software development and penetration testing.
 
 | Name | Description |
 |------|-------------|
+| [mail-client](https://github.com/batusaribay/mail-client) | A terminal email client for IMAP and SMTP.
+| [news-reader](https://github.com/batusaribay/news-reader) | A terminal news reader with article text.
 | [breach-checker](https://github.com/batusaribay/breach-checker) | Password and email breach checker |
 
 ## Other Repositories
