@@ -7,10 +7,10 @@ I like software development and penetration testing.
 | Name | Description |
 |------|-------------|
 | [email](https://github.com/batusaribay/email) | An email client for IMAP and SMTP in the terminal |
-| [news](https://github.com/batusaribay/news) | News in the terminal |
+| [news](https://github.com/batusaribay/news) | A terminal news reader with full articles |
 | [wiki](https://github.com/batusaribay/wiki) | A Wikipedia browser in the terminal |
 | [dictionary](https://github.com/batusaribay/dictionary) | An offline dictionary in the terminal |
-| [web-search](https://github.com/batusaribay/web-search) | Search the web from the terminal |
+| [web-search](https://github.com/batusaribay/web-search) | A terminal client for web search and reading |
 | [saturn-art](https://github.com/batusaribay/saturn-art) | A live, ray-traced Saturn spinning in colored ASCII art |
 
 ## Support
