@@ -10,7 +10,7 @@ I like software development and penetration testing.
 | [news-scraper](https://github.com/batusaribay/news-scraper) | A news scraper in the terminal |
 | [wiki-search](https://github.com/batusaribay/wiki-search) | A Wikipedia searcher in the terminal |
 | [dict-lookup](https://github.com/batusaribay/dict-lookup) | An offline dictionary in the terminal |
-| [breach-checker](https://github.com/batusaribay/breach-checker) | Password and email breach checker |
+| [saturn-art](https://github.com/batusaribay/saturn-art) | A live, ray-traced Saturn spinning in colored ASCII art |
 
 ## Other Repositories
 
@@ -25,6 +25,7 @@ I like software development and penetration testing.
 | [local-llm](https://github.com/batusaribay/local-llm) | Local LLM runner |
 | [cyber-news](https://github.com/batusaribay/cyber-news) | Cybersecurity news website |
 | [password-generator](https://github.com/batusaribay/password-generator) | Cryptographically secure password generator |
+| [breach-checker](https://github.com/batusaribay/breach-checker) | Password and email breach checker |
 
 ## Support
 
