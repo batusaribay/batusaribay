@@ -13,7 +13,7 @@ I like software development and penetration testing.
 | [over-the-wire](https://github.com/batusaribay/over-the-wire) | A Rust CLI for OverTheWire games |
 | [saturn-art](https://github.com/batusaribay/saturn-art) | A Rust CLI that renders a live, ray-traced Saturn |
 | [web-search](https://github.com/batusaribay/web-search) | A Rust CLI for web search and reading |
-| [wiki](https://github.com/batusaribay/wiki) | A Rust CLI reader for Wikipedia, It's FOSS, and wikiHow |
+| [wiki](https://github.com/batusaribay/wiki) | A Rust CLI Wikipedia browser |
 
 ## Support
 
