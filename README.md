@@ -11,7 +11,7 @@ I like software development and penetration testing.
 | [email](https://github.com/batusaribay/email) | A Rust CLI email client for IMAP and SMTP |
 | [news](https://github.com/batusaribay/news) | A Rust CLI to read full news articles |
 | [over-the-wire](https://github.com/batusaribay/over-the-wire) | A Rust CLI for OverTheWire games |
-| [saturn-art](https://github.com/batusaribay/saturn-art) | A Rust CLI that renders a live, ray-traced Saturn |
+| [saturn-art](https://github.com/batusaribay/saturn-art) | A Rust CLI that renders ray-traced Saturn |
 | [web-search](https://github.com/batusaribay/web-search) | A Rust CLI to search the web |
 | [wiki](https://github.com/batusaribay/wiki) | A Rust CLI to read Wikipedia and other sources |
 
